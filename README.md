@@ -1,2 +1,2 @@
-# Ejercicio-1-Curriculum-sem-ntico
+# Ejercicio-1-Curriculum-semantico
 Curriculum semántico
